@@ -1,7 +1,7 @@
 # AEMSP12-move-delete-bug
 There is a known issue with move and delete functionality inAEM 6.5.12 but there is a workaround to fix this issue
 
-Please follow the steps:
+Download the package in this repo and  follow the steps:
 1. Go to /system/console/configMgr
 2. Find Day CQ WCM Page Manager Factory
 3. Check Page Subtree Activation Check checkbox and save it
